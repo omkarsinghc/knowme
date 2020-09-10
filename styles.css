@@ -1,0 +1,8 @@
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color : #ff8e6e;
+  border-width: 8px;
+}
+h1 { font: 100px Bradley Hand ITC, sans-serif;color: #515070}
+h2 { font: 50px Bradley Hand ITC, sans-serif;}
