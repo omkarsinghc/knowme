@@ -15,7 +15,7 @@ h3 {
   background-color: grey;
 }
 
-div {
+.background {
 background-image: url(https://images.unsplash.com/photo-1527352675495-d54e8f102689?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
 height:620px;
 
@@ -25,3 +25,9 @@ body {
   margin-right:0px;
   margin-top: 0px;
 }
+p{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top:20px;
+  margin-bottom: 20px;
+  }
