@@ -5,29 +5,46 @@ hr {
   border-width: 5px;
 }
 h1 {
-   font: 100px Bradley Hand ITC, sans-serif;
-   color: #ff7171}
+  font-family: 'Bad Script', cursive;
+   color: #ff7171;
+   font-size: 100px}
 h2 {
   font: 70px Bradley Hand ITC, sans-serif;
   color: #f1f3f8;
 }
-h3 {
-  background-color: grey;
+h3{
+  font-size: 30px;
+  font-family: 'Cinzel', serif
+
 }
+
 
 .background {
 background-image: url(https://images.unsplash.com/photo-1527352675495-d54e8f102689?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
 height:620px;
 
 }
-body {
+.photo {
   margin-left:0px;
   margin-right:0px;
-  margin-top: 0px;
+  margin-top:auto;
 }
 p{
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top:20px;
-  margin-bottom: 20px;
-  }
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  color: black;
+
+}
+
+
+.para2{
+  margin-left:450px ;
+  margin-right: 450px;
+}
+
+.para3{
+  margin-left:450px ;
+  margin-right: 450px;
+}
