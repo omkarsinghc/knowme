@@ -9,8 +9,9 @@ h1 {
    color: #ff7171;
    font-size: 100px}
 h2 {
-  font: 70px Bradley Hand ITC, sans-serif;
-  color: #f1f3f8;
+  font-family: 'Nanum Pen Script', cursive;
+  color: #ff7171;
+  font-size: 60px;
 }
 h3{
   font-size: 30px;
