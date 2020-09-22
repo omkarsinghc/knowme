@@ -16,7 +16,6 @@ h2 {
 h3{
   font-size: 30px;
   font-family: 'Cinzel', serif
-
 }
 
 
@@ -28,7 +27,7 @@ height:620px;
 .photo {
   margin-left:0px;
   margin-right:0px;
-  margin-top:auto;
+  margin-top:0px;
 }
 p{
   font-family: 'Noto Sans TC', sans-serif;
@@ -36,16 +35,10 @@ p{
   margin-top: auto;
   margin-bottom: auto;
   color: black;
-
 }
-
-
-.para2{
-  margin-left:450px ;
-  margin-right: 450px;
-}
-
-.para3{
-  margin-left:450px ;
-  margin-right: 450px;
+.lines{
+  border-style: none;
+  border-top-style:dashed;
+  border-color : blue;
+  border-width: 1px;
 }
